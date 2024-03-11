@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 PyBank Instructions
 
-https://github.com/tarsian/python-challenge/blob/main/Module%203/Images/Vote_counting.png?raw=true
 [Vote_counting](https://github.com/tarsian/python-challenge/blob/main/Module%203/Images/Vote_counting.png)
 
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
