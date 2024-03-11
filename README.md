@@ -14,7 +14,6 @@ Your task is to create a Python script that analyzes the records to calculate ea
 -  The greatest decrease in profits (date and amount) over the entire period
 
 PyPoll Instructions
-
 [Vote_counting](https://github.com/tarsian/python-challenge/blob/main/Module%203/Images/Vote_counting.png)
 
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
