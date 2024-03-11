@@ -19,7 +19,7 @@ with open(election_data_csv_path, newline="") as csvfile:
 """
 #===============================================================================
 
-# This code is from the class, need to be run from 'PyBank' folder to run it
+# This code is from the class, need to be run from 'PyPoll' folder to run it
 # C:Users\jacob\Desktop\Class Data\Challenge\Module 3\PyPoll>
 
 budget_data_csv_path = os.path.join("Resources", "election_data.csv")
