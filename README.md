@@ -1,6 +1,7 @@
-# python-challenge
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+# python-challenge
+
+
 PyBank 
 Instructions
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
@@ -30,3 +31,4 @@ https://blog.enterprisedna.co/python-open-file/
 https://stackoverflow.com/questions/5627425/what-is-a-good-way-to-handle-exceptions-when-trying-to-read-a-file-in-python
 https://blockdmask.tistory.com/534
 https://stackoverflow.com/questions/509742/change-directory-to-the-directory-of-a-python-script
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
